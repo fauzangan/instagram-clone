@@ -40,7 +40,7 @@ export default function App() {
             {[...Array(5)].map((_, index) => (
               <View alignItems="center" marginHorizontal={10} key={index}>
                 <UserCircle size={60} color="#ccc" />
-                <Text fontSize={12}>billyprtmaa</Text>
+                <Text fontSize={12}>fauzan</Text>
               </View>
             ))}
           </ScrollView>
